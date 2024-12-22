@@ -14,6 +14,7 @@
 
 <br/>
 
+Ali, also known as Zen, is a passionate full-stack developer with a keen interest in computer science. Born on June 22, 2007, he began his coding journey in 2021 and has since been dedicated to expanding his knowledge and skills. Ali has built a strong foundation in web development with proficiency in front-end technologies like HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and Vue.js. On the backend, he is skilled in PHP, Laravel, and MySQL, making him adept at developing robust, well-designed web applications. His experience includes creating RESTful APIs and implementing CRUD functionalities with Eloquent in Laravel. Ali is committed to continuous learning, currently focusing on advanced API development and Laravel capabilities. With a love for problem-solving and a knack for creating user-friendly interfaces, Ali is always eager to tackle new challenges in the field of web development.
 ## My Skill Set
 
 <table>
